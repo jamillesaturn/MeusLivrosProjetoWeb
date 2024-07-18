@@ -3,7 +3,7 @@ Um biblioteca online onde você pode publicar e ler livros.
 ## :technologist: Membros da equipe
 Jamille Bezerra Candido, 538276, Sistemas de Informação
 
-Janaina Macario, Sistemas de Informação
+Janaina Macario de Sousa, 542086, Sistemas de Informação
 
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
