@@ -15,10 +15,12 @@ Usuário Logado, Usuário Não Logado, Moderadores
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
 Liste as principais entidades do sistema.
-Usuário, Livro, Lista de leitura
+
+Usuários, Livros, Listas de leitura
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
 Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+
 Usuário logado:  Publicar livros, ler livros, criar lista de leitura, favoritar e comentar livros, adicionar livro a biblioteca.
 
 Moderador: Poderão remover livros.
