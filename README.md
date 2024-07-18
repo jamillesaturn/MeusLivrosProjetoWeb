@@ -1,7 +1,7 @@
 # :checkered_flag: Meus Livros
 Um biblioteca online onde você pode publicar e ler livros.
 ## :technologist: Membros da equipe
-Jamille Bezerra, 538276, Sistemas de Informação
+Jamille Bezerra Candido, 538276, Sistemas de Informação
 
 Janaina Macario, Sistemas de Informação
 
